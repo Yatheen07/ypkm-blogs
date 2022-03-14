@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yatheen07.github.io/ypkm-blogs/sitemap.xml
