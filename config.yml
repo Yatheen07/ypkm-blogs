@@ -35,11 +35,11 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "YPKM Blogs"
     author: Yatheendra Pravan
 
-    defaultTheme: auto
-    # disableThemeToggle: true
+    defaultTheme: dark
+    #disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
